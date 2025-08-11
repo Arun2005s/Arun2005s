@@ -10,11 +10,7 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<h3 align="center">WELCOME!</h3>
+<h1 align="center">WELCOME!</h1>
 
 ###
 
