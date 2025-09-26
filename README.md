@@ -45,11 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
 </div>
 
-<h3 align="left">🔥 My Stats</h3>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Arun2005s&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arun2005s&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
